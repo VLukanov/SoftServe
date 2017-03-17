@@ -1,0 +1,78 @@
+﻿@model Demo2._1.Models.Employee
+
+<h2>Details</h2>
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Position.PositionName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Position.PositionName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectName.Project)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProjectName.Project)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee2.Manager)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee2.FullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Workplace)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Workplace)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Salary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Salary)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

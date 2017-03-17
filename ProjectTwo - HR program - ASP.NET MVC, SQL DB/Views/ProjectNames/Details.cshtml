@@ -1,0 +1,26 @@
+﻿@model Demo2._1.Models.ProjectName
+
+<h2>Details</h2>
+
+<div>
+    <h4>ProjectName</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Project)
+            <div>Members count</div>
+            <div>Project Manager</div>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Project)
+            <div>@Html.DisplayFor(model => model.Employees.Count)</div>
+            @Html.DisplayFor(model => model.ProjectManager.FullName)            
+        </dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

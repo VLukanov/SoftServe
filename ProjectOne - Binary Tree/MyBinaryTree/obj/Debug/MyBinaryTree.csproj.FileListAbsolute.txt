@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\SoftServe\Demo\ProjectOne\MyBinaryTree\bin\Debug\MyBinaryTree.exe.config
+C:\Users\Lenovo\Desktop\SoftServe\Demo\ProjectOne\MyBinaryTree\bin\Debug\MyBinaryTree.exe
+C:\Users\Lenovo\Desktop\SoftServe\Demo\ProjectOne\MyBinaryTree\bin\Debug\MyBinaryTree.pdb
+C:\Users\Lenovo\Desktop\SoftServe\Demo\ProjectOne\MyBinaryTree\obj\Debug\MyBinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftServe\Demo\ProjectOne\MyBinaryTree\obj\Debug\MyBinaryTree.exe
+C:\Users\Lenovo\Desktop\SoftServe\Demo\ProjectOne\MyBinaryTree\obj\Debug\MyBinaryTree.pdb
+C:\Users\Lenovo\Desktop\SoftServe\SoftServe\ProjectOne\MyBinaryTree\bin\Debug\MyBinaryTree.exe.config
+C:\Users\Lenovo\Desktop\SoftServe\SoftServe\ProjectOne\MyBinaryTree\obj\Debug\MyBinaryTree.exe
+C:\Users\Lenovo\Desktop\SoftServe\SoftServe\ProjectOne\MyBinaryTree\obj\Debug\MyBinaryTree.pdb
+C:\Users\Lenovo\Desktop\SoftServe\SoftServe\ProjectOne\MyBinaryTree\bin\Debug\MyBinaryTree.exe
+C:\Users\Lenovo\Desktop\SoftServe\SoftServe\ProjectOne\MyBinaryTree\bin\Debug\MyBinaryTree.pdb
+C:\Users\Lenovo\Desktop\SoftServe\SoftServe\ProjectOne\MyBinaryTree\obj\Debug\MyBinaryTree.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿@model List<Demo2._1.Models.Employee>
+
+<h2>Team members</h2>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+               
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>   
+        </tr>
+    }
+</table>
+<p>    
+    @Html.ActionLink("Back to List", "Index")
+</p>
